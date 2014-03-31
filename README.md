@@ -6,4 +6,4 @@ The Shepherd project is a web application that supports
 * management of these records
 * analysis of these records, including spot analysis techniques to correlate sightings of individuals 
 
-Please see http://www.ecoceanusa.org/shepherd for documentation.
+Please see http://www.wildme.org/wildbook for documentation.
